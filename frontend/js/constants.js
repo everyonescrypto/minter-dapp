@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the EOC FOUNDER MEMBER VIP (EFMV) mint page!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The EFMV is "ticket to profit", our upcoming lisenced mints. Follow step by step on the <a href="https://everyonescrypto.com/nft.html"  target="_blank" rel="noopener noreferrer">EOC NFT page</a> Website.';
+const welcome_p = 'The EFMV is "ticket to made profit", our upcoming lisenced mints. Follow step by step on the <a href="https://everyonescrypto.com/nft.html"  target="_blank" rel="noopener noreferrer">EOC NFT page</a> Website.';
 const h1_presale_coming_soon = "EFMV NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
