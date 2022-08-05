@@ -1,5 +1,5 @@
-const contractAddress = "0x8f2dd714Eb7Fb21Ee5FdF62De9E0C9AF29058C35"; // Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
+const contractAddress = "0xa428b617590d7c5932Ee708c1e63ad3890ef90aD"; // Replace with your own contract address
+const chain = 'mumbai'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the EOC FOUNDER MEMBER VIP (EFMV) mint page!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
